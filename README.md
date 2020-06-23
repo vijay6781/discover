@@ -153,7 +153,7 @@ table {
        <br>
           <img src="https://img.techpowerup.org/200615/meme7.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
-            <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
+            <h5><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br></a></h5>
           </div> 
       </div>
     </div>
