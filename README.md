@@ -1,31 +1,63 @@
+<html>
+<head>
 <html lang="en">
 <head>
-  <title>Okay Result:Okay Meme</title>
+  <title> Okay Result: okayresult.com, Okay Result, Ok Result, okayresult,#Okay Result, #okResult, okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
   <meta charset="utf-8">
+  <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms,Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job,Specially fast Job Result,Bihar/up Result by #Okay Result.">
+  <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
+  <meta name="rating" content="general">
+  <meta name="distribution" content="global">
+  <link rel="canonical" href="https://okayresult.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </head>
-  <style>
-      .footerv{
-  padding: 1.6%;;
+<style type="text/css">
+  body {
+
+   font-family: 'Roboto', sans-serif;  position: relative; 
+  }
+  
+   @import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+.tbody {
+  min-height:40px;
+  overflow-y:scroll;
+}
+#vks .nav-link:hover
+{
+color:rgb(255, 26, 140);
+background:rgb(0, 255, 255);
+ font-weight:130;
+ font-size:1.5rem;
+} 
+table {
+  border-color: #55ff00;
+}
+.footerv{
+  padding: 1.8%;;
   margin-top: 20px;
-  margin-bottom:2px;
+  margin-bottom:1px;
   color:#ffffff;
   background-color:#e8491d;
   text-align:center;
 }
-    body {
-
-   font-family: 'Roboto', sans-serif;  position: relative; 
-  }
-	  .floating-text {
+.floating-text {
 	background-color: #001F61;
 	border-radius: 10px 10px 0 0;
 	color: #fff;
 	font-family: 'Muli';
-	padding: 7px 7px;
+	padding: 7px 35px;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
@@ -38,11 +70,44 @@
 	color: #FF7500;
 	text-decoration: none;
 }
+.floating-btn {
+	border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 12px 20px;
+	position: fixed;
+	bottom:0px;
+	right: 20px;
+	z-index: 999;
+}
 
-    
-  </style>   
+.floating-btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
 
-   <div class="text-center text-success mt-2"><h3> Okay Meme<br></h3><h4>Just for Fun <svg class="bi bi-emoji-smile-upside-down text-warning" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+.floating-btn:focus {
+	outline: none;
+}
+@media screen and (max-width: 1024px) {
+
+.social-panel-container.visible {
+		transform: translateX(0px);
+}
+	
+.floating-btn {
+	right:12px;
+}
+}
+</style>
+
+<body data-spy="scroll"  data-offset="50">
+    <div class="text-center text-success mt-2"><h3> Okay Meme<br></h3><h4>Just for Fun <svg class="bi bi-emoji-smile-upside-down text-warning" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M8 1a7 7 0 1 1 0 14A7 7 0 0 1 8 1zm0-1a8 8 0 1 1 0 16A8 8 0 0 1 8 0z"/>
   <path fill-rule="evenodd" d="M4.285 6.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 4.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 3.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683z"/>
   <path d="M7 9.5C7 8.672 6.552 8 6 8s-1 .672-1 1.5.448 1.5 1 1.5 1-.672 1-1.5zm4 0c0-.828-.448-1.5-1-1.5s-1 .672-1 1.5.448 1.5 1 1.5 1-.672 1-1.5z"/>
@@ -61,15 +126,20 @@
           <img src="https://img.techpowerup.org/200614/meme4.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-secondary">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
-        </div>
+          </div>
+         
       </div>
     </div>
+    
+    
     <div class="col-md-4">
       <div class="thumbnail">
+       
           <img src="https://img.techpowerup.org/200614/meme5.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-secondary">
             <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
-          </div>  
+          </div>
+         
       </div>
     </div>
     <div class="col-md-4">
@@ -77,7 +147,8 @@
           <img src="https://img.techpowerup.org/200614/meme6.jpg" alt="Lights" style="width:95%">
           <div class="caption text-center bg-secondary">
             <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
-          </div> 
+          </div>
+         
       </div>
     </div>
                </div>
@@ -90,15 +161,20 @@
           <img src="https://img.techpowerup.org/200615/meme7.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-secondary">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
-          </div>  
+          </div>
+         
       </div>
     </div>
+    
+    
     <div class="col-md-4">
       <div class="thumbnail">
+       
           <img src="https://img.techpowerup.org/200615/meme8.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-secondary">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br><br></a></h5>
-          </div>  
+          </div>
+         
       </div>
     </div>
     <div class="col-md-4">
@@ -106,7 +182,8 @@
           <img src="https://img.techpowerup.org/200615/meme2.gif" alt="Lights" style="width:95%">
           <div class="caption text-center bg-secondary">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br></a></h5>
-          </div> 
+          </div>
+         
       </div>
     </div>
                </div>
@@ -118,10 +195,9 @@
 </svg> </span> <a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,255,255)">vjhelpcare@gmail.com<br><br></span></a></p>
  </div>
  </div>
+ </div>
 	<div class="floating-text">
 	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
-</div>										   
+</div>							
+</body>
 </html>
-
-
-
