@@ -139,7 +139,7 @@ table {
     </tr>
 </tbody></table>
 <p></p>  
-            <h5>Contact<hr><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
+            <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
 	      </div> 
       </div>
     </div>
