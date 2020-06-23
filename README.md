@@ -125,7 +125,8 @@ table {
        <br>
           <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
-		  <p></p><h5 style="color:rgb(200,55,80)"> Biology 10th Bharati Bhavan</h5><table>
+		  <p></p><h5 style="color:rgb(200,55,80)"> Biology 10th Bharati Bhavan</h5>
+		  <table style="align:center">
     <thead><tr>
         <th>MRP</th>
         <th>Less</th>
