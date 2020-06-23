@@ -120,7 +120,7 @@ table {
   <div class="container">
   
   <div class="row">
-    <div class="col-md-4 mr-5">
+    <div class="col-md-4 mr-5 border border-secondary">
       <div class="thumbnail" style="Height:170%;">
        <br>
           <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%">
@@ -129,7 +129,7 @@ table {
 	      </div> 
       </div>
     </div> 
-    <div class="col-md-4 mr-5">
+    <div class="col-md-4 mr-5 border border-secondary">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200614/meme5.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
@@ -137,7 +137,7 @@ table {
           </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 border border-secondary">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200614/meme6.jpg" alt="Lights" style="width:95%">
           <div class="caption text-center bg-white">
@@ -147,7 +147,7 @@ table {
     </div>
                </div>
    <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 border border-secondary">
       <div class="thumbnail" style="Height:170%;">
        <br>
           <img src="https://img.techpowerup.org/200615/meme7.gif" alt="Lights" style="width:100%">
@@ -156,7 +156,7 @@ table {
           </div> 
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 border border-secondary">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200615/meme8.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
@@ -164,7 +164,7 @@ table {
 	      </div>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 border border-secondary">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200615/meme2.gif" alt="Lights" style="width:95%">
           <div class="caption text-center bg-white">
