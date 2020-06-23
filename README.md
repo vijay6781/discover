@@ -124,66 +124,52 @@ table {
       <div class="thumbnail" style="Height:170%;">
        <br>
           <img src="https://img.techpowerup.org/200614/meme4.gif" alt="Lights" style="width:100%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
-          </div>
-         
+	      </div> 
       </div>
-    </div>
-    
-    
+    </div> 
     <div class="col-md-4">
       <div class="thumbnail">
-       
           <img src="https://img.techpowerup.org/200614/meme5.gif" alt="Lights" style="width:100%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
           </div>
-         
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200614/meme6.jpg" alt="Lights" style="width:95%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
           </div>
-         
       </div>
     </div>
                </div>
-       
-  
    <div class="row">
     <div class="col-md-4">
       <div class="thumbnail" style="Height:170%;">
        <br>
           <img src="https://img.techpowerup.org/200615/meme7.gif" alt="Lights" style="width:100%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
-          </div>
-         
+          </div> 
       </div>
     </div>
-    
-    
     <div class="col-md-4">
       <div class="thumbnail">
-       
           <img src="https://img.techpowerup.org/200615/meme8.gif" alt="Lights" style="width:100%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br><br></a></h5>
-          </div>
-         
+	      </div>
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200615/meme2.gif" alt="Lights" style="width:95%">
-          <div class="caption text-center bg-secondary">
+          <div class="caption text-center bg-white">
             <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br></a></h5>
           </div>
-         
       </div>
     </div>
                </div>
@@ -193,7 +179,6 @@ table {
  <span style="color:rgb(255,255,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
 </svg> </span> <a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,255,255)">vjhelpcare@gmail.com<br><br></span></a></p>
- </div>
  </div>
  </div>
 	<div class="floating-text">
