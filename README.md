@@ -120,21 +120,20 @@ table {
   <div class="container">
   
   <div class="row">
-    <div class="col-md-4  border border-secondary">
+    <div class="col-md-4 mr-5">
       <div class="thumbnail" style="Height:170%;">
        <br>
           <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
-            <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br></a></h5>
+            <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
 	      </div> 
       </div>
     </div> 
-    <div class="col-md-4  border border-secondary">
+    <div class="col-md-4 mr-5">
       <div class="thumbnail">
-	      <br>
           <img src="https://img.techpowerup.org/200614/meme5.gif" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
-            <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br></a></h5>
+            <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
           </div>
       </div>
     </div>
