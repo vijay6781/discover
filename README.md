@@ -1,40 +1,85 @@
-# Mimstris
+<!DOCTYPE html>
+<html lang="en">
 
-An arcade puzzle game created in JS using [React](https://facebook.github.io/react/) / [Redux](http://redux.js.org/).
+<head>
+  <meta charset="utf-8">
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
-**This game is open-source, free, and just for funsies!**
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="../package/swiper-bundle.min.css">
 
-## 👉 [Play Now!](https://mimstris.surge.sh)  🎮 📺
+  <!-- Demo styles -->
+  <style>
+    html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+  </style>
+</head>
 
-[![Screen Shot](screenshot.gif)](htts://mimstris.surge.sh)
+<body>
+  <!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">Slide 1</div>
+      <div class="swiper-slide">Slide 2</div>
+      <div class="swiper-slide">Slide 3</div>
+      <div class="swiper-slide">Slide 4</div>
+      <div class="swiper-slide">Slide 5</div>
+      <div class="swiper-slide">Slide 6</div>
+      <div class="swiper-slide">Slide 7</div>
+      <div class="swiper-slide">Slide 8</div>
+      <div class="swiper-slide">Slide 9</div>
+      <div class="swiper-slide">Slide 10</div>
+    </div>
+    <!-- Add Arrows -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-## Motivation
-After watching [Meth Meth Method's video](https://www.youtube.com/watch?v=H2aW5V46khA) I was inspired to create a similar game for the following reasons:
+  <!-- Swiper JS -->
+  <script src="../package/swiper-bundle.min.js"></script>
 
-  1. To try my hand at making a game using functional programming methodologies.
-  1. To try out some JS tools that I hadn't used before
-  1. I thought it would be fun to make up crazy custom shapes and/or game modes.
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  </script>
+</body>
 
-Some of the tools I used:
-
-  - [redux](http://redux.js.org/) for state management
-  - [reselect](https://github.com/reactjs/reselect) for memoized selectors
-  - [react](https://facebook.github.io/react/) for component rendering
-  - [Ducks](https://github.com/erikras/ducks-modular-redux) for module organization
-  - [AVA](https://github.com/avajs/ava) for unit tests and [nyc](https://github.com/istanbuljs/nyc) for code coverage
-  - [lodash](https://lodash.com/) for numerous utility functions
-  - [random-seed](https://github.com/skratchdot/random-seed) to create a deterministic game mode (where every game is the same order of pieces)
-  - [pressed](https://github.com/mimshwright/pressed.js) for detecting key presses in update loop (I created this library for this project)
-  - babel, webpack, standard (code style)
-  - ES6
-
-## Controls
-
-| Key   | Action |
-| ----- | ------ |
-| Left, A  | Left   |
-| Right, D | Right  |
-| Down, S  | Down   |
-| Shift, Up    | Rotate Right |
-| Z, /    | Rotate Left |
-| Enter    | Pause / Restart Game |
+</html>
