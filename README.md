@@ -14,6 +14,14 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+</script>
 </head>
 <style type="text/css">
   body {
@@ -123,8 +131,8 @@ table {
     <div class="col-md-4  border border-secondary">
       <div class="thumbnail" style="Height:170%;">
        <br>
-          <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%">
-          <div class="caption text-center bg-white">
+         <div id="flip"> <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%"></div>
+		<div id="panel"> <div class="caption text-center bg-white">
 		  <p></p><h5 style="color:rgb(200,55,80)"> Biology 10th Bharati Bhavan</h5>
 		  <table style="align:center">
     <thead><tr>
@@ -142,6 +150,7 @@ table {
 <p></p>  
             <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
 	      </div> 
+	      </div>
       </div>
     </div>
     <div class="col-md-4 border border-secondary">
