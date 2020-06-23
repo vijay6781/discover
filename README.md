@@ -22,6 +22,10 @@ $(document).ready(function(){
   });
 });
 </script>
+	
+#panel {
+  display: none;
+}
 </head>
 <style type="text/css">
   body {
