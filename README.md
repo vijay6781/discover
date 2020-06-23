@@ -41,7 +41,7 @@
 
     
   </style>   
-<body>
+
    <div class="text-center text-success mt-2"><h3> Okay Meme<br></h3><h4>Just for Fun <svg class="bi bi-emoji-smile-upside-down text-warning" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M8 1a7 7 0 1 1 0 14A7 7 0 0 1 8 1zm0-1a8 8 0 1 1 0 16A8 8 0 0 1 8 0z"/>
   <path fill-rule="evenodd" d="M4.285 6.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 4.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 3.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683z"/>
@@ -118,11 +118,10 @@
 </svg> </span> <a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,255,255)">vjhelpcare@gmail.com<br><br></span></a></p>
  </div>
  </div>
- </div>
 	<div class="floating-text">
 	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
 </div>										   
-</body>
 </html>
+
 
 
