@@ -125,7 +125,8 @@ table {
        <br>
           <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%">
           <div class="caption text-center bg-white">
-            <h5><br><br>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
+		  <p><h5>discription<hr></h5><h6>asdfgghh</h6></p>  
+            <h5><hr>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar<br><br><br></a></h5>
 	      </div> 
       </div>
     </div> 
