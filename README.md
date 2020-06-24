@@ -125,7 +125,7 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="test-center text-success"><h5>please click for Buy</h5></div>
+	<div class="test-center text-success"><h5><div class="text-center">please click for Buy</div></h5></div>
 	<div class="text-center text-dander"> <button>book</button></div>
    <div id="pan">
 
