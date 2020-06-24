@@ -133,7 +133,8 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="text-center text-danger"> <button>book</button></div>
+	<div class="text-center text-success">Click For Buy</div>
+	<div class="text-center text-danger"><button>book</button></div>
    <div id="pan">
 
   <div class="container">
