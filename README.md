@@ -133,9 +133,6 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="test-center text-success"><h5><div class="text-center">please click for Buy</div></h5></div>
-	<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-80be59f7-5c66-4aa1-bdc8-65105fa49443"></div>
 	<div class="text-center text-danger"> <button>book</button></div>
    <div id="pan">
 
