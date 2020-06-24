@@ -39,6 +39,9 @@ $(document).ready(function(){
 	</style>	
 </head>
 <style type="text/css">
+	img {
+  border-radius:4%;
+}
   body {
 
    font-family: 'Roboto', sans-serif;  position: relative; 
