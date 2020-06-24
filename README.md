@@ -138,19 +138,8 @@ table {
          <div id="flip"> <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%"></div>
 		<div id="panel"> <div class="caption text-center bg-white">
 		  <p></p><h5 style="color:rgb(200,55,80)"> Biology 10th Bharati Bhavan</h5>
-		  <table style="align:center">
-    <thead><tr>
-        <th>MRP</th>
-        <th>Less</th>
-        <th>sell price</th>
-    </tr>
-        </thead>
-    <tbody><tr>
-         <td>80</td>
-        <td>10%</td>
-        <td>72</td>
-    </tr>
-</tbody></table>
+		 <div class="text-center">
+  <h5>₹ 72 <del> ₹80</del> 10%off</h5></div>
 <p></p>  
             <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
 	      </div> 
