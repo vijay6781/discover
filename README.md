@@ -28,7 +28,7 @@ $(document).ready(function(){
 });
 </script>
 <style>	
-#panel #pan {
+#panel, #pan {
   display: none;
 }
 	</style>	
@@ -125,7 +125,7 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="text-center"> <button>book</button></div>
+	<div class="text-center text-dander"> <button>book</button></div>
    <div id="pan">
 
   <div class="container">
