@@ -17,8 +17,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script> 
 $(document).ready(function(){
-  $("#flip").click(function(){
-    $("#panel").slideToggle("slow");
+  $("#flip,#vip1").click(function(){
+    $("#panel,#nel1").slideToggle("slow");
   });
 });
 	$(document).ready(function(){
@@ -28,7 +28,7 @@ $(document).ready(function(){
 });
 </script>
 <style>	
-#panel, #pan {
+#panel,#nel1, #pan {
   display: none;
 }
 	</style>	
@@ -132,6 +132,20 @@ table {
   <div class="container">
   
   <div class="row">
+	<div class="col-md-4  border border-secondary">
+      <div class="thumbnail" style="Height:170%;">
+       <br>
+         <div id="vip1"> <img src="https://img.techpowerup.org/200624/book2.jpg" alt="Lights" style="width:100%"></div>
+    <div id="nel1"> <div class="caption text-center bg-white">
+      <p></p><h5 style="color:rgb(200,55,80)"> Errorless Physics(AIIMS/IIT) Both Volume</h5>
+<div class="text-center">
+  <h5>₹ 1350 <del> ₹135</del>90%off</h5></div>
+<p></p>  
+            <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
+        </div> 
+        </div>
+      </div>
+    </div>
     <div class="col-md-4  border border-secondary">
       <div class="thumbnail" style="Height:170%;">
        <br>
