@@ -139,7 +139,7 @@ table {
     <div id="nel1"> <div class="caption text-center bg-white">
       <p></p><h5 style="color:rgb(200,55,80)"> Errorless Physics(AIIMS/IIT) Both Volume</h5>
 <div class="text-center">
-  <h5>₹ 1350 <del> ₹135</del> 90%off</h5></div>
+  <h5>₹ 135 <del> ₹1350</del> 90%off</h5></div>
 <p></p>  
             <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
         </div> 
