@@ -17,11 +17,16 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script> 
 $(document).ready(function(){
-  $("#flip,#vip1").click(function(){
-    $("#panel,#nel1").slideToggle("slow");
+  $("#vip1").click(function(){
+    $("#nel1").slideToggle("slow");
   });
 });
-	$(document).ready(function(){
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+  $(document).ready(function(){
   $("button").click(function(){
     $("#pan").slideToggle("slow");
   });
