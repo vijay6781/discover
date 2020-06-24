@@ -216,5 +216,7 @@ table {
 	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
 </div>
 </div>
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-5fd9cb55-7ff8-4001-873b-3be4fdc1dac2"></div>
 </body>
 </html>
