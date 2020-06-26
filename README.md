@@ -35,7 +35,7 @@ $(document).ready(function(){
 <style>
    img:hover {
   animation: shake 0.9s;
-  animation-iteration-count: infinite;
+  animation-iteration-count:2;
 }
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
