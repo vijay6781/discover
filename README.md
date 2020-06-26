@@ -163,8 +163,7 @@ table {
 		 <div class="text-center">
   <h5>₹ 72 <del> ₹80</del> 10%off</h5></div>
 <p></p>  
-		 <button style="Background:rgb(0,250,1);color:rgb(255,1,1)"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeqWFQfvjaehvukzpGadGO-e4NLISElnSUb4TZLP4B5aFpeHg/viewform?embedded=true" width="320" height="640" frameborder="0" marginheight="0" marginwidth="0">Order</a></button>
-            
+		 <button style="Background:rgb(0,250,1);text-color:rgb(255,1,1)"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeqWFQfvjaehvukzpGadGO-e4NLISElnSUb4TZLP4B5aFpeHg/viewform?embedded=true" width="320" height="640" frameborder="0" marginheight="0" marginwidth="0">Order</a></button><br>
 	      </div> 
 	      </div>
       </div>
