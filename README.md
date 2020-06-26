@@ -149,7 +149,7 @@ table {
 <div class="text-center">
   <h5>₹ 135 <del> ₹1350</del> 90%off</h5></div>
 <p></p>  
-            <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
+            <h5><a href="https://forms.gle/1nafzz8vydfhU9kr9"><span style="color:rgb(255,25,25)"><button>Order</button></span></a><br></h5>
         </div> 
         </div>
       </div>
