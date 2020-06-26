@@ -163,7 +163,7 @@ table {
 		 <div class="text-center">
   <h5>₹ 72 <del> ₹80</del> 10%off</h5></div>
 <p></p>  
-			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqWFQfvjaehvukzpGadGO-e4NLISElnSUb4TZLP4B5aFpeHg/viewform?embedded=true" width="320" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSeqWFQfvjaehvukzpGadGO-e4NLISElnSUb4TZLP4B5aFpeHg/viewform?embedded=true" width="320" height="640" frameborder="0" marginheight="0" marginwidth="0">contact</a>
             <h5><a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,25,25)"><button>Email</button></span></a><br></h5>
 	      </div> 
 	      </div>
