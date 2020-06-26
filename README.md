@@ -40,7 +40,7 @@ $(document).ready(function(){
 </head>
 <style type="text/css">
 	img {
-  border-radius:4%;
+  border-radius:5%;
 }
   body {
 
