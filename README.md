@@ -140,7 +140,7 @@ table {
   <div class="container">
   
   <div class="row">
-	<div class="col-md-4  border border-primary">
+	<div class="col-md-4  border border-white">
       <div class="thumbnail" style="Height:170%;">
        <br>
          <div id="vip1"> <img src="https://img.techpowerup.org/200624/book2.jpg" alt="Lights" style="width:100%"></div>
@@ -154,7 +154,7 @@ table {
         </div>
       </div>
     </div>
-    <div class="col-md-4  border border-primary">
+    <div class="col-md-4  border border-white">
       <div class="thumbnail" style="Height:170%;">
        <br>
          <div id="flip"> <img src="https://img.techpowerup.org/200623/newbook1.jpg" alt="Lights" style="width:100%"></div>
