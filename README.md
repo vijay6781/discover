@@ -151,6 +151,7 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
+	<form action="http://formspree.io/kumarviju785@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
 	<div class="text-center text-success">Click For Buy</div>
 	<div class="text-center text-danger"><button>book</button></div>
    <div id="pan">
