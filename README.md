@@ -191,7 +191,7 @@ table {
       <div class="thumbnail">
           <img src="https://img.techpowerup.org/200614/meme6.jpg" alt="Lights" style="width:95%">
           <div class="caption text-center bg-white">
-            <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> Shashikant Kumar</a></h5>
+            <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> <i class="fa fa-whatsapp" aria-hidden="true"></i></a></h5>
           </div>
       </div>
     </div>
