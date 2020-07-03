@@ -239,7 +239,6 @@ table {
 	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
 </div>
 </div>
-/* <script type="text/javascript" src="https://form.jotform.com/jsform/201780483396462"></script > */
- /* <h4><a href="form.html">Order</a></h4> */
+ <h4><a href="form.html">Order</a></h4> 
 </body>
 </html>
