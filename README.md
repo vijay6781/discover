@@ -227,7 +227,7 @@ table {
       </div>
     </div>
                </div>
-       
+       </div>
   <div class="footerv">
   <p>Contact us<br>
  <span style="color:rgb(255,255,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -239,6 +239,5 @@ table {
 	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
 </div>
 </div>
- <h4><a href="form.html">Order</a></h4> 
 </body>
 </html>
