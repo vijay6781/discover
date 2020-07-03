@@ -217,13 +217,7 @@ table {
       </div>
     </div>
     <div class="col-md-4 border border-primary">
-      <div class="thumbnail">
-          <img src="https://img.techpowerup.org/200614/meme6.jpg" alt="Lights" style="width:95%">
-          <div class="caption text-center bg-white">
-            <h5>Credit:<a href="https://www.linkedin.com/in/shashikant-kumar-8b4315197"> <i class="fa fa-whatsapp" aria-hidden="true"></i>whatsapp</a></h5>
-          </div>
-      </div>
-    </div>
+      <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-214716748" itemscope itemtype="http://schema.org/Product" data-single-product-id="214716748"><div itemprop="image"></div><div class="ecsp-title" itemprop="name" content="Bharati Bhavan Biology, 80% OFF. (MRP 80)"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="24"><div itemprop="priceCurrency" content="INR"></div></div></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?32530051&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
                </div>
    <div class="row">
     <div class="col-md-4 border border-primary">
