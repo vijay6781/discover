@@ -156,7 +156,7 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="text-center text-success">Click For Buy</div>
+	<div class="text-center" style="color:rgb(255,255,255)">Click For Buy</div>
 	<div class="text-center text-danger"><button>book</button></div>
    <div id="pan">
 
