@@ -160,7 +160,7 @@ table {
 	<div class="text-center text-danger"><button>book</button></div>
    <div id="pan">
 
-  <div class="container">
+  <div class="container bg-white">
   
   <div class="row">
 	<div class="col-md-4  border border-primary">
