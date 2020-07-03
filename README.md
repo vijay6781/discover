@@ -161,6 +161,12 @@ table {
 <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?32530051&data_platform=code&data_date=2020-07-03" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-32530051");</script>
 </div>
 	
+<div id="my-categories-32530051"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?32530051&data_platform=code&data_date=2020-07-03" charset="utf-8"></script>
+<script type="text/javascript"> xCategoriesV2("id=my-categories-32530051"); </script>
+</div>	
+
 <div class="text-center" style="color:rgb(255,0,0)">Click For Buy</div>
 	<div class="text-center text-danger"><button>book</button></div>
    <div id="pan">
